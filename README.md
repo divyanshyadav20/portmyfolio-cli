@@ -16,12 +16,12 @@ _Created with ❤︎ by [Divyansh Yadav](https://divyanshyadav.com)_
 
 <br />
 
-### Introduction
+## Introduction
 
 **Portmyfolio** is built to simplify the process of creating a personal portfolio website. It is a flexible and easily configurable npm package, built around a Next.js application. This package assists you in creating, editing, and customizing your portfolio by leveraging the Next.js application as a template.
 
 
-### 📦 Installation
+## 📦 Installation
 
 You can install the package globally and then use it inside the boilerplate repo consisting of a `port.json` file. This file is necessary for applying your configuration to the Next.js application.
 
@@ -30,7 +30,7 @@ npm i -g portmyfolio
 ```
 
 
-### 🛠 Development
+## 🛠 Development
 
 The package provides several commands to facilitate local development, building for production, and production server starting.
 
@@ -46,16 +46,16 @@ Use this command to create a production-ready build of your portfolio.
 
 Execute this command to kickstart your production server.
 
-### 🏃🏻‍♂️ Get Started
+## 🏃🏻‍♂️ Get Started
 
 Begin your journey with [Portmyfolio](https://www.portmyfolio.com/) by obtaining a boilerplate.
 
-### 📘 Documentation 
+## 📘 Documentation 
 
 Find detailed information on how to use the boilerplate and install the package in our [documentation](https://docs.portmyfolio.com/introduction).
 
 
-### 📝 Notes
+## 📝 Notes
 
 - Portmyfolio requires Node v18 or higher. Please ensure that your environment meets this requirement before proceeding.
 - You need the boilerplate repository for running the commands in, without it you won't be able to run any of the above mentioned commands.
