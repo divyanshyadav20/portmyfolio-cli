@@ -1,6 +1,6 @@
 {
   "name": "portmyfolio",
-  "version": "1.2.18",
+  "version": "1.2.21",
   "description": "Alias for @portmyfolio/cli",
   "engines": {
     "node": ">=18.0.0"
@@ -21,6 +21,6 @@
   "bin": "index.js",
   "license": "ISC",
   "dependencies": {
-    "@portmyfolio/cli": "^1.1.19"
+    "@portmyfolio/cli": "^1.1.22"
   }
 }
